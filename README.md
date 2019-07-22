@@ -16,7 +16,7 @@ In this section we will be covering Natural Language Processing (NLP), which ref
 
 ### Natural Language Tool Kit (NLTK)
 
-We start by providing more context on the Natural Language Toolkit, NLTK for short.  most common python library used for NLP tasks is **Natural Language Tool Kit**, or NLTK for short. This library was developed by researchers at the University of Pennsylvania, and has quickly become the most powerful and complete library of NLP tools available. 
+We'll start by providing more context on the Natural Language Toolkit(NLTK), one of the most popular NLP libraries used in python.  This library was developed by researchers at the University of Pennsylvania, and it has quickly become one of the most powerful and complete library of NLP tools available. 
 
 ### Regular Expressions
 
